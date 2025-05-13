@@ -20,7 +20,7 @@ Power BI - Dashboard creation and visualization
 
 ## 🔍 Methodology
 
-1.Data Cleaning:
+Data Cleaning:
 
 1. Checked for missing, null, or inconsistent values in Excel.
 
