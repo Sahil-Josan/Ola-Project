@@ -20,15 +20,15 @@ Power BI - Dashboard creation and visualization
 
 ## 🔍 Methodology
 
-Data Cleaning:
+1. Data Cleaning:
 
-    Checked for missing, null, or inconsistent values in Excel.
+  Checked for missing, null, or inconsistent values in Excel.
 
   Verified and corrected data types (dates, numbers, text).
 
   Removed or treated anomalies (e.g., negative fares, future dates).
 
-Data Analysis with SQL:
+2. Data Analysis with SQL:
 
   Wrote complex queries to extract key metrics:
 
@@ -40,7 +40,7 @@ Data Analysis with SQL:
 
   Ratings and user feedback
 
-Visualization using Power BI:
+3. Visualization using Power BI:
 
   Created dynamic dashboards using slicers, filters, and drill-throughs.
 
