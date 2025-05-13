@@ -3,31 +3,38 @@
 OLA Ride Analysis (July 2024)
 Tools used: SQL | Power BI | Excel
 
-##Project Objective
+## Project Objective
 To derive actionable business insights from OLA ride data spanning July 1–31, 2024, focusing on user behavior, ride trends, vehicle performance, and revenue metrics, and presenting these findings through interactive Power BI dashboards.
 
 ## Dataset used
 <a href="https://github.com/Sahil-Josan/Ola-Project/blob/main/OlaBookings.csv"> Dataset</a>
 
-##Tools & Technologies
+## Tools & Technologies
 Tool	  Purpose
+
 Excel -	Data cleaning, formatting
 
 SQL -	Querying and generating insights
 
 Power BI - Dashboard creation and visualization
 
-🔍 Methodology
+## 🔍 Methodology
 Data Cleaning
 Checked for missing, null, or inconsistent values in Excel.
+
 Verified and corrected data types (dates, numbers, text).
+
 Removed or treated anomalies (e.g., negative fares, future dates).
 
 Data Analysis with SQL
 Wrote complex queries to extract key metrics:
+
 Total rides, revenue, cancellations
+
 Popular routes and peak hour
+
 Vehicle-wise performance
+
 Ratings and user feedback
 
 Visualization using Power BI
