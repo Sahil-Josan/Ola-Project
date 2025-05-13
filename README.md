@@ -19,7 +19,9 @@ SQL -	Querying and generating insights
 Power BI - Dashboard creation and visualization
 
 ## 🔍 Methodology
+
 Data Cleaning
+
 Checked for missing, null, or inconsistent values in Excel.
 
 Verified and corrected data types (dates, numbers, text).
@@ -27,6 +29,7 @@ Verified and corrected data types (dates, numbers, text).
 Removed or treated anomalies (e.g., negative fares, future dates).
 
 Data Analysis with SQL
+
 Wrote complex queries to extract key metrics:
 
 Total rides, revenue, cancellations
@@ -38,7 +41,9 @@ Vehicle-wise performance
 Ratings and user feedback
 
 Visualization using Power BI
+
 Created dynamic dashboards using slicers, filters, and drill-throughs.
+
 Focused on usability for business and operational teams.
 
 
@@ -62,6 +67,7 @@ PowerBI Dashboards :
 ![Ratings](https://github.com/user-attachments/assets/f1c98a71-4eed-4ea4-ab09-35633a1eec04)
 
 ##📌 Key Insights
+
 🚗 Most Used Vehicle: Mini rides accounted for 42% of total trips.
 
 🕔 Peak Hours: 8–10 AM and 6–9 PM showed the highest demand.
@@ -73,6 +79,7 @@ PowerBI Dashboards :
 ⭐ Average Rating: 4.3, with highest-rated drivers operating in Bengaluru.
 
 ## 📈 Value Delivered
+
 Operational teams can reduce cancellation rates by targeting peak hours with more drivers.
 
 Marketing teams can promote high-rated vehicle types and times.
