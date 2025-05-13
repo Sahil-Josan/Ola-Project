@@ -74,7 +74,7 @@ PowerBI Dashboards :
 
 🕔 Peak Hours: 8–10 AM and 6–9 PM showed the highest demand.
 
-💸 Highest Revenue: July 15th, with ₹XXX in total fares.
+💸 Highest Revenue: July 15th, with much profit in total fares.
 
 ❌ Top Cancellation Reason: “Driver unavailable” at 33% of all cancellations.
 
