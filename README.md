@@ -22,29 +22,29 @@ Power BI - Dashboard creation and visualization
 
 1.Data Cleaning:
 
-  Checked for missing, null, or inconsistent values in Excel.
+1. Checked for missing, null, or inconsistent values in Excel.
 
-  Verified and corrected data types (dates, numbers, text).
+2. Verified and corrected data types (dates, numbers, text).
 
-  Removed or treated anomalies (e.g., negative fares, future dates).
+3. Removed or treated anomalies (e.g., negative fares, future dates).
 
-2.Data Analysis with SQL:
+Data Analysis with SQL:
 
-  Wrote complex queries to extract key metrics:
+1. Wrote complex queries to extract key metrics:
 
-  Total rides, revenue, cancellations
+2. Total rides, revenue, cancellations
 
-  Popular routes and peak hour
+3. Popular routes and peak hour
 
-  Vehicle-wise performance
+4. Vehicle-wise performance
 
-  Ratings and user feedback
+5. Ratings and user feedback
 
-3.Visualization using Power BI:
+Visualization using Power BI:
 
-  Created dynamic dashboards using slicers, filters, and drill-throughs.
+1. Created dynamic dashboards using slicers, filters, and drill-throughs.
 
-  Focused on usability for business and operational teams.
+2. Focused on usability for business and operational teams.
 
 
 ## Power BI Dashboards
