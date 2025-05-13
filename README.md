@@ -20,7 +20,7 @@ Power BI - Dashboard creation and visualization
 
 ## 🔍 Methodology
 
-Data Cleaning
+Data Cleaning:
 
 Checked for missing, null, or inconsistent values in Excel.
 
@@ -28,7 +28,7 @@ Verified and corrected data types (dates, numbers, text).
 
 Removed or treated anomalies (e.g., negative fares, future dates).
 
-Data Analysis with SQL
+Data Analysis with SQL:
 
 Wrote complex queries to extract key metrics:
 
@@ -40,7 +40,7 @@ Vehicle-wise performance
 
 Ratings and user feedback
 
-Visualization using Power BI
+Visualization using Power BI:
 
 Created dynamic dashboards using slicers, filters, and drill-throughs.
 
@@ -48,7 +48,9 @@ Focused on usability for business and operational teams.
 
 
 ## Power BI Dashboards
-Dashboard            	Description
+
+Dashboard            	  Description
+
 Overall Summary	KPIs : Total rides, cancellations, avg fare, top cities
 
 Vehicle Type : Analysis	Performance breakdown by vehicle type (Mini, Prime, Auto)
