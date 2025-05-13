@@ -43,13 +43,15 @@ Focused on usability for business and operational teams.
 
 
 ## Power BI Dashboards
-(Ensure the image links actually load correctly in your final version. If not, consider using Power BI Publish to Web or exporting PNGs.)
-
 Dashboard            	Description
 Overall Summary	KPIs : Total rides, cancellations, avg fare, top cities
+
 Vehicle Type : Analysis	Performance breakdown by vehicle type (Mini, Prime, Auto)
+
 Revenue Overview :	Daily/weekly revenue trends and customer segments
+
 Cancellation Report :	Top cancellation reasons, driver vs. user trends
+
 Ratings Analysis :	Customer satisfaction by route, time, driver
 
 PowerBI Dashboards :
@@ -61,14 +63,20 @@ PowerBI Dashboards :
 
 ##📌 Key Insights
 🚗 Most Used Vehicle: Mini rides accounted for 42% of total trips.
+
 🕔 Peak Hours: 8–10 AM and 6–9 PM showed the highest demand.
+
 💸 Highest Revenue: July 15th, with ₹XXX in total fares.
+
 ❌ Top Cancellation Reason: “Driver unavailable” at 33% of all cancellations.
+
 ⭐ Average Rating: 4.3, with highest-rated drivers operating in Bengaluru.
 
-##📈 Value Delivered
+## 📈 Value Delivered
 Operational teams can reduce cancellation rates by targeting peak hours with more drivers.
+
 Marketing teams can promote high-rated vehicle types and times.
+
 Product teams can optimize app experience for low-rated routes.
 
 <a href =https://github.com/Sahil-Josan/Ola-Project>OLA Ride Analysis GitHub<a>
