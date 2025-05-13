@@ -22,7 +22,7 @@ Power BI - Dashboard creation and visualization
 
 Data Cleaning:
 
-  Checked for missing, null, or inconsistent values in Excel.
+    Checked for missing, null, or inconsistent values in Excel.
 
   Verified and corrected data types (dates, numbers, text).
 
