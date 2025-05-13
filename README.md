@@ -12,7 +12,9 @@ To derive actionable business insights from OLA ride data spanning July 1–31, 
 ##Tools & Technologies
 Tool	  Purpose
 Excel -	Data cleaning, formatting
+
 SQL -	Querying and generating insights
+
 Power BI - Dashboard creation and visualization
 
 🔍 Methodology
